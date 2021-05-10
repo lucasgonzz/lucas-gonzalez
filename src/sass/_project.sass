@@ -1,0 +1,21 @@
+.project
+	display: flex
+	.img-container
+		@media screen and (max-width: 768px)
+			width: 100%
+		@media screen and (min-width: 768px)
+			width: 50%	
+		img
+			width: 100%
+	.data-container
+		padding: 1em
+		display: flex
+		flex-direction: column
+		justify-content: center
+		@media screen and (max-width: 768px)
+			display: none
+		@media screen and (min-width: 768px)
+			width: 50%
+			.title
+				text-align: center
+				font-size: 1.2em
