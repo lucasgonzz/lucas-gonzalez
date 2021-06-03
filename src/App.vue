@@ -6,6 +6,7 @@
 </div>
 </template>
 
-<style lang="scss">
+<style lang="sass">
+@import "./sass/fonts/styles.css"
 @import '@/sass/app.sass'
 </style>

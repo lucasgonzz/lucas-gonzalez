@@ -13,17 +13,11 @@
 			<p>
 				Cuenta con una interfaz intuitiva y las herramientas de gestión que un comercio necesita para administrar su inventario y sus ventas.
 			</p>
-			<div>
-				<b-button
-				v-b-modal="'miregistrodeventas'"
-				variant="primary">
-					Preview
-				</b-button>
-			</div>
+			<b-button
+			v-b-modal="'miregistrodeventas'"
+			class="bg-purple">
+				Ver en detalle
+			</b-button>
 		</div>
 	</div>
 </template>
-<script>
-export default {
-}
-</script>

@@ -9,7 +9,7 @@
 			</p>
 			<p
 			class="sub-title">
-				Diseño y construyo aplicaciones web para una fácil y practica gestión de sistemas, listas para ser descargadas en dispositivos móviles y de escritorio.
+				Diseño y desarrollo aplicaciones web para una fácil y practica gestión de sistemas, listas para ser descargadas en dispositivos móviles y de escritorio.
 			</p>
 		</b-col>
 	</b-row>

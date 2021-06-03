@@ -2,14 +2,14 @@
 <b-modal id="miregistrodeventas" body-class="preview" title="Mi Registro de Ventas" hide-footer size="lg">
 	<img src="@/assets/miregistrodeventas.png" alt="">
 	<div class="specs">
-		<p class="title">Especificaciones</p>
+		<p class="main-title">Especificaciones</p>
 		<p>
 			Miregistrodeventas es una SPA, es decir, una single-page application, o aplicación de página única, es una aplicación web que cabe en una sola página con el propósito de dar una experiencia más fluida a los usuarios, como si fuera una aplicación de escritorio o de teléfono. Construida con Vue.js trabaja con un API programado en Laravel.
 		</p>
 		<p>
 			Además hace uso de la tecnología PWA, una aplicación web progresiva (PWA por sus siglas en inglés), es un tipo de software que está destinado a funcionar en cualquier plataforma que use un navegador. La funcionalidad incluye trabajar sin conexión, notificaciones y acceso al hardware del dispositivo, lo que permite crear experiencias de usuario como las aplicaciones nativas en dispositivos móviles y de escritorio.
 		</p>
-		<p class="title">Se maneja a travez de 4 secciones</p>
+		<p class="main-title">Se maneja a traves de 4 secciones</p>
 		<div class="box">
 			<p class="title text-purple">INGRESAR</p>
 			<p>
@@ -43,8 +43,4 @@
 	</div>
 </b-modal>
 </template>
-<style lang="sass">
-.text-purple
-	color: #4a2c82
-</style>
 	

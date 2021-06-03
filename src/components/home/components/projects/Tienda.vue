@@ -8,22 +8,16 @@
 				Tienda
 			</p>
 			<p class="description">
-				Tienda es una tienda virtual que funciona sincronizadamente con miregistrodeventas.com
+				Se trata de una tienda virtual que funciona de manera sincronizada con Miregistrodeventas.
 			</p>
 			<p>
-				Cada usuario de miregistrodeventas puede tener una tienda online, funcionando con su propio dominio
+				Cada usuario de Miregistrodeventas puede tener una tienda online, funcionando con su propio dominio.
 			</p>
-			<div>
-				<b-button
-				v-b-modal="'tienda'"
-				variant="success">
-					Preview
-				</b-button>
-			</div>
+			<b-button
+			v-b-modal="'tienda'"
+			variant="success">
+				Ver en detalle
+			</b-button>
 		</div>
 	</div>
 </template>
-<script>
-export default {
-}
-</script>
